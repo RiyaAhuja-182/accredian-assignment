@@ -26,7 +26,7 @@
 
 ```bash
 git clone https://github.com/RiyaAhuja-182/accredian-assignment.git
-cd 
+cd accredian-assignment
 ```
 
 2. Install dependencies:
