@@ -2,11 +2,11 @@
 
 ## 🌐 Live Demo
 
-👉 [Your Vercel Link Here]
+👉 https://accredian-assignment-kappa.vercel.app/
 
 ## 📦 GitHub Repository
 
-👉 [Your GitHub Repo Link Here]
+👉 https://github.com/RiyaAhuja-182/accredian-assignment
 
 ---
 
